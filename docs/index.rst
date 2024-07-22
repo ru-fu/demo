@@ -1,7 +1,7 @@
 Starter pack
 ============
 
-**A single sentence that says what the product is, succinctly and memorably.**
+test **A single sentence that says what the product is, succinctly and memorably.**
 
 **A paragraph of one to three short sentences, that describe what the product
 does.**
